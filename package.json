@@ -1,1 +1,19 @@
-
+{
+  "name": "com.mixin.[packagename]",
+  "version": "1.0.0",
+  "displayName": "Package Name",
+  "description": "Description",
+  "unity": "2021.1",
+  "dependencies": {
+    "com.mixin.unity-utils": "1.0.0"
+  },
+  "keywords": [
+    "Mixin Games",
+    "Keyword"
+  ],
+  "author": {
+    "name": "Mixin Games",
+    "email": "public@mixin.ch",
+    "url": "https://mixin.ch"
+  }
+}
