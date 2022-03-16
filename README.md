@@ -1,1 +1,1 @@
-# unity-package-template
+# Unity Package Template
