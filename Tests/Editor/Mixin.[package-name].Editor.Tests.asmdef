@@ -1,5 +1,5 @@
 {
-    "name": "Mixin.[packagename]",
+    "name": "Mixin.[package-name].Editor.Tests",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [],
